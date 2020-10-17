@@ -1,5 +1,5 @@
-const array1 = [1, 3, 4, 8];
-const array2 = [1, 3, 12, 15];
+const array1 = [-11, 2, 9];
+const array2 = [4];
 
 const finalArr = [];
 
